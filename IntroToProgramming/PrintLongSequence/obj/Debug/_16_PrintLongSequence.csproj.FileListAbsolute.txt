@@ -1,0 +1,5 @@
+D:\Projects C#\Solution1\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+D:\Projects C#\Solution1\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+D:\Projects C#\Solution1\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+D:\Projects C#\Solution1\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+D:\Projects C#\Solution1\PrintLongSequence\obj\Debug\PrintLongSequence.pdb
