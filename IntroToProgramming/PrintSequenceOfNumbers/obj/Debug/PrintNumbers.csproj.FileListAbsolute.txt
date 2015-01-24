@@ -1,6 +1,0 @@
-D:\Projects C#\Solution1\PrintSequenceOfNumbers\bin\Debug\PrintSequenceOfNumbers.exe.config
-D:\Projects C#\Solution1\PrintSequenceOfNumbers\bin\Debug\PrintSequenceOfNumbers.exe
-D:\Projects C#\Solution1\PrintSequenceOfNumbers\bin\Debug\PrintSequenceOfNumbers.pdb
-D:\Projects C#\Solution1\PrintSequenceOfNumbers\obj\Debug\PrintNumbers.csprojResolveAssemblyReference.cache
-D:\Projects C#\Solution1\PrintSequenceOfNumbers\obj\Debug\PrintSequenceOfNumbers.exe
-D:\Projects C#\Solution1\PrintSequenceOfNumbers\obj\Debug\PrintSequenceOfNumbers.pdb

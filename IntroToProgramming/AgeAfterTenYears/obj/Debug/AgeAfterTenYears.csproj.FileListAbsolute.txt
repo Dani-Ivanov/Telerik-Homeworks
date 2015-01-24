@@ -1,6 +1,0 @@
-D:\Projects C#\Solution1\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe.config
-D:\Projects C#\Solution1\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe
-D:\Projects C#\Solution1\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.pdb
-D:\Projects C#\Solution1\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.csprojResolveAssemblyReference.cache
-D:\Projects C#\Solution1\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.exe
-D:\Projects C#\Solution1\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.pdb

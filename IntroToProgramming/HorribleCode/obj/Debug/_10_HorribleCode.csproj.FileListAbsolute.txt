@@ -1,5 +1,0 @@
-D:\Projects C#\Solution1\HorribleCode\bin\Debug\HorribleCode.exe.config
-D:\Projects C#\Solution1\HorribleCode\bin\Debug\HorribleCode.exe
-D:\Projects C#\Solution1\HorribleCode\bin\Debug\HorribleCode.pdb
-D:\Projects C#\Solution1\HorribleCode\obj\Debug\HorribleCode.exe
-D:\Projects C#\Solution1\HorribleCode\obj\Debug\HorribleCode.pdb

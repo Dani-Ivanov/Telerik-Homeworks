@@ -1,6 +1,0 @@
-D:\Projects C#\OperatorsAndExpressions\10_PointInsideCircleOutsideRectangle\bin\Debug\10_PointInsideCircleOutsideRectangle.exe.config
-D:\Projects C#\OperatorsAndExpressions\10_PointInsideCircleOutsideRectangle\bin\Debug\10_PointInsideCircleOutsideRectangle.exe
-D:\Projects C#\OperatorsAndExpressions\10_PointInsideCircleOutsideRectangle\bin\Debug\10_PointInsideCircleOutsideRectangle.pdb
-D:\Projects C#\OperatorsAndExpressions\10_PointInsideCircleOutsideRectangle\obj\Debug\10_PointInsideCircleOutsideRectangle.csprojResolveAssemblyReference.cache
-D:\Projects C#\OperatorsAndExpressions\10_PointInsideCircleOutsideRectangle\obj\Debug\10_PointInsideCircleOutsideRectangle.exe
-D:\Projects C#\OperatorsAndExpressions\10_PointInsideCircleOutsideRectangle\obj\Debug\10_PointInsideCircleOutsideRectangle.pdb

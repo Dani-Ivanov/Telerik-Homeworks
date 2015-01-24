@@ -1,5 +1,0 @@
-D:\Projects C#\Primitive Data Types and Variables\PrintASCII\bin\Debug\PrintASCII.exe.config
-D:\Projects C#\Primitive Data Types and Variables\PrintASCII\bin\Debug\PrintASCII.exe
-D:\Projects C#\Primitive Data Types and Variables\PrintASCII\bin\Debug\PrintASCII.pdb
-D:\Projects C#\Primitive Data Types and Variables\PrintASCII\obj\Debug\PrintASCII.exe
-D:\Projects C#\Primitive Data Types and Variables\PrintASCII\obj\Debug\PrintASCII.pdb

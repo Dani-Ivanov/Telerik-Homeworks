@@ -1,6 +1,0 @@
-D:\Projects C#\Primitive Data Types and Variables\EmployeeData\bin\Debug\EmployeeData.exe.config
-D:\Projects C#\Primitive Data Types and Variables\EmployeeData\bin\Debug\EmployeeData.exe
-D:\Projects C#\Primitive Data Types and Variables\EmployeeData\bin\Debug\EmployeeData.pdb
-D:\Projects C#\Primitive Data Types and Variables\EmployeeData\obj\Debug\EmployeeData.exe
-D:\Projects C#\Primitive Data Types and Variables\EmployeeData\obj\Debug\EmployeeData.pdb
-D:\Projects C#\Primitive Data Types and Variables\EmployeeData\obj\Debug\EmployeeData.csprojResolveAssemblyReference.cache

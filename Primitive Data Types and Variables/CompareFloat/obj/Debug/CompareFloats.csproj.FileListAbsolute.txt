@@ -1,6 +1,0 @@
-D:\Projects C#\Primitive Data Types and Variables\CompareFloat\bin\Debug\CompareFloat.exe.config
-D:\Projects C#\Primitive Data Types and Variables\CompareFloat\bin\Debug\CompareFloat.exe
-D:\Projects C#\Primitive Data Types and Variables\CompareFloat\bin\Debug\CompareFloat.pdb
-D:\Projects C#\Primitive Data Types and Variables\CompareFloat\obj\Debug\CompareFloats.csprojResolveAssemblyReference.cache
-D:\Projects C#\Primitive Data Types and Variables\CompareFloat\obj\Debug\CompareFloat.exe
-D:\Projects C#\Primitive Data Types and Variables\CompareFloat\obj\Debug\CompareFloat.pdb

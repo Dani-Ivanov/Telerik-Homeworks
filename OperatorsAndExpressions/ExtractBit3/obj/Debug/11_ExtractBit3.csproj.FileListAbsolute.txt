@@ -1,6 +1,0 @@
-D:\Projects C#\OperatorsAndExpressions\ExtractBit3\bin\Debug\ExtractBit3.exe.config
-D:\Projects C#\OperatorsAndExpressions\ExtractBit3\bin\Debug\ExtractBit3.exe
-D:\Projects C#\OperatorsAndExpressions\ExtractBit3\bin\Debug\ExtractBit3.pdb
-D:\Projects C#\OperatorsAndExpressions\ExtractBit3\obj\Debug\11_ExtractBit3.csprojResolveAssemblyReference.cache
-D:\Projects C#\OperatorsAndExpressions\ExtractBit3\obj\Debug\ExtractBit3.exe
-D:\Projects C#\OperatorsAndExpressions\ExtractBit3\obj\Debug\ExtractBit3.pdb

@@ -1,6 +1,0 @@
-D:\Projects C#\OperatorsAndExpressions\01_CheckIfOddOrEven\bin\Debug\01_CheckIfOddOrEven.exe.config
-D:\Projects C#\OperatorsAndExpressions\01_CheckIfOddOrEven\bin\Debug\01_CheckIfOddOrEven.exe
-D:\Projects C#\OperatorsAndExpressions\01_CheckIfOddOrEven\bin\Debug\01_CheckIfOddOrEven.pdb
-D:\Projects C#\OperatorsAndExpressions\01_CheckIfOddOrEven\obj\Debug\01_CheckIfOddOrEven.csprojResolveAssemblyReference.cache
-D:\Projects C#\OperatorsAndExpressions\01_CheckIfOddOrEven\obj\Debug\01_CheckIfOddOrEven.exe
-D:\Projects C#\OperatorsAndExpressions\01_CheckIfOddOrEven\obj\Debug\01_CheckIfOddOrEven.pdb
