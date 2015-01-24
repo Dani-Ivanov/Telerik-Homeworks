@@ -1,0 +1,5 @@
+D:\Projects C#\OperatorsAndExpressions\BitAtPositionP\bin\Debug\BitAtPositionP.exe.config
+D:\Projects C#\OperatorsAndExpressions\BitAtPositionP\bin\Debug\BitAtPositionP.exe
+D:\Projects C#\OperatorsAndExpressions\BitAtPositionP\bin\Debug\BitAtPositionP.pdb
+D:\Projects C#\OperatorsAndExpressions\BitAtPositionP\obj\Debug\BitAtPositionP.exe
+D:\Projects C#\OperatorsAndExpressions\BitAtPositionP\obj\Debug\BitAtPositionP.pdb

@@ -1,0 +1,6 @@
+D:\Projects C#\OperatorsAndExpressions\veryAdvanced\bin\Debug\veryAdvanced.exe.config
+D:\Projects C#\OperatorsAndExpressions\veryAdvanced\bin\Debug\veryAdvanced.exe
+D:\Projects C#\OperatorsAndExpressions\veryAdvanced\bin\Debug\veryAdvanced.pdb
+D:\Projects C#\OperatorsAndExpressions\veryAdvanced\obj\Debug\veryAdvanced.csprojResolveAssemblyReference.cache
+D:\Projects C#\OperatorsAndExpressions\veryAdvanced\obj\Debug\veryAdvanced.exe
+D:\Projects C#\OperatorsAndExpressions\veryAdvanced\obj\Debug\veryAdvanced.pdb

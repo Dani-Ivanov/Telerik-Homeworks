@@ -1,0 +1,5 @@
+D:\Projects C#\Primitive Data Types and Variables\SwapVariables\bin\Debug\SwapVariables.exe.config
+D:\Projects C#\Primitive Data Types and Variables\SwapVariables\bin\Debug\SwapVariables.exe
+D:\Projects C#\Primitive Data Types and Variables\SwapVariables\bin\Debug\SwapVariables.pdb
+D:\Projects C#\Primitive Data Types and Variables\SwapVariables\obj\Debug\SwapVariables.exe
+D:\Projects C#\Primitive Data Types and Variables\SwapVariables\obj\Debug\SwapVariables.pdb

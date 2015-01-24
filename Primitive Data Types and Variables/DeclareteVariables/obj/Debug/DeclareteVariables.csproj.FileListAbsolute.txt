@@ -1,0 +1,6 @@
+D:\Projects C#\Primitive Data Types and Variables\DeclareteVariables\bin\Debug\DeclareteVariables.exe.config
+D:\Projects C#\Primitive Data Types and Variables\DeclareteVariables\bin\Debug\DeclareteVariables.exe
+D:\Projects C#\Primitive Data Types and Variables\DeclareteVariables\bin\Debug\DeclareteVariables.pdb
+D:\Projects C#\Primitive Data Types and Variables\DeclareteVariables\obj\Debug\DeclareteVariables.csprojResolveAssemblyReference.cache
+D:\Projects C#\Primitive Data Types and Variables\DeclareteVariables\obj\Debug\DeclareteVariables.exe
+D:\Projects C#\Primitive Data Types and Variables\DeclareteVariables\obj\Debug\DeclareteVariables.pdb

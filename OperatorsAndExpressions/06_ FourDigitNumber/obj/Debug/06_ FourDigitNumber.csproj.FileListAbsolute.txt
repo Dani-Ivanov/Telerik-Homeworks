@@ -1,0 +1,6 @@
+D:\Projects C#\OperatorsAndExpressions\06_ FourDigitNumber\bin\Debug\06_ FourDigitNumber.exe.config
+D:\Projects C#\OperatorsAndExpressions\06_ FourDigitNumber\bin\Debug\06_ FourDigitNumber.exe
+D:\Projects C#\OperatorsAndExpressions\06_ FourDigitNumber\bin\Debug\06_ FourDigitNumber.pdb
+D:\Projects C#\OperatorsAndExpressions\06_ FourDigitNumber\obj\Debug\06_ FourDigitNumber.exe
+D:\Projects C#\OperatorsAndExpressions\06_ FourDigitNumber\obj\Debug\06_ FourDigitNumber.pdb
+D:\Projects C#\OperatorsAndExpressions\06_ FourDigitNumber\obj\Debug\06_ FourDigitNumber.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Projects C#\OperatorsAndExpressions\08_PrimeNumberCheck\bin\Debug\08_PrimeNumberCheck.exe.config
+D:\Projects C#\OperatorsAndExpressions\08_PrimeNumberCheck\bin\Debug\08_PrimeNumberCheck.exe
+D:\Projects C#\OperatorsAndExpressions\08_PrimeNumberCheck\bin\Debug\08_PrimeNumberCheck.pdb
+D:\Projects C#\OperatorsAndExpressions\08_PrimeNumberCheck\obj\Debug\08_PrimeNumberCheck.exe
+D:\Projects C#\OperatorsAndExpressions\08_PrimeNumberCheck\obj\Debug\08_PrimeNumberCheck.pdb
