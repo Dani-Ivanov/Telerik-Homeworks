@@ -1,0 +1,5 @@
+D:\Projects C#\Solution1\CalcSquareRoot\bin\Debug\CalcSquareRoot.exe.config
+D:\Projects C#\Solution1\CalcSquareRoot\bin\Debug\CalcSquareRoot.exe
+D:\Projects C#\Solution1\CalcSquareRoot\bin\Debug\CalcSquareRoot.pdb
+D:\Projects C#\Solution1\CalcSquareRoot\obj\Debug\CalcSquareRoot.exe
+D:\Projects C#\Solution1\CalcSquareRoot\obj\Debug\CalcSquareRoot.pdb

@@ -1,0 +1,5 @@
+D:\Projects C#\OperatorsAndExpressions\ModifyBit\bin\Debug\ModifyBit.exe.config
+D:\Projects C#\OperatorsAndExpressions\ModifyBit\bin\Debug\ModifyBit.exe
+D:\Projects C#\OperatorsAndExpressions\ModifyBit\bin\Debug\ModifyBit.pdb
+D:\Projects C#\OperatorsAndExpressions\ModifyBit\obj\Debug\ModifyBit.exe
+D:\Projects C#\OperatorsAndExpressions\ModifyBit\obj\Debug\ModifyBit.pdb

@@ -1,0 +1,5 @@
+D:\Projects C#\OperatorsAndExpressions\12_ExtractBitFromInt\bin\Debug\12_ExtractBitFromInt.exe.config
+D:\Projects C#\OperatorsAndExpressions\12_ExtractBitFromInt\bin\Debug\12_ExtractBitFromInt.exe
+D:\Projects C#\OperatorsAndExpressions\12_ExtractBitFromInt\bin\Debug\12_ExtractBitFromInt.pdb
+D:\Projects C#\OperatorsAndExpressions\12_ExtractBitFromInt\obj\Debug\12_ExtractBitFromInt.exe
+D:\Projects C#\OperatorsAndExpressions\12_ExtractBitFromInt\obj\Debug\12_ExtractBitFromInt.pdb
